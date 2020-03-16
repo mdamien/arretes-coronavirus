@@ -1,12 +1,20 @@
+# Chapitre préliminaire
+
+## Mesures générales de prévention
+
+## Art. préliminaire
+
+Afin de ralentir la propagation du virus, les mesures d'hygiène et de distanciation sociale, dites "barrières", définies au niveau national, doivent être observées en tout lieu et en toute circonstance. Les rassemblements, réunions, activités et accueils qui ne sont pas interdits en vertu du présent arrêté sont organisés en veillant au strict respect de ces mesures." ;
+
 ## Article 1er
 
-Afin de ralentir la propagation du virus covid-19, les établissements relevant des catégories mentionnées à l'article GN1 de l'arrêté du 25 juin 1980 susvisé figurant ci-après ne peuvent plus accueillir du public jusqu'au 15 avril 2020 :
+I. - Afin de ralentir la propagation du virus covid-19, les établissements relevant des catégories mentionnées à l'article GN1 de l'arrêté du 25 juin 1980 susvisé figurant ci-après ne peuvent plus accueillir du public jusqu'au 15 avril 2020 :
 
 - au titre de la catégorie L : Salles d'auditions, de conférences, de réunions, de spectacles ou à usage multiple ;
 
-- au titre de la catégorie M : Centres commerciaux ;
+- au titre de la catégorie M : Magasins de vente et Centres commerciaux, sauf pour leurs activités de livraison et de retraits de commandes ;
 
-- au titre de la catégorie N : Restaurants et débits de boissons ;
+- au titre de la catégorie N : Restaurants et débits de boissons, sauf pour leurs activités de livraison et de vente à emporter, le "room service" des restaurants et bars d'hôtels et la restauration collective sous contrat ;
 
 - au titre de la catégorie P : Salles de danse et salles de jeux ;
 
@@ -16,11 +24,19 @@ Afin de ralentir la propagation du virus covid-19, les établissements relevant 
 
 - au titre de la catégorie X : Etablissements sportifs couverts ;
 
-- au titre de la catégorie Y : Musées.
+- au titre de la catégorie Y : Musées ;
 
-Pour l'application du présent article, les restaurants et bars d'hôtels, à l'exception du "room service", sont regardés comme relevant de la catégorie N : Restaurants et débits de boissons. L'ensemble des établissements de cette catégorie sont en outre autorisés à maintenir leurs activités de vente à emporter et de livraison.
+- au titre de la catégorie CTS : Chapiteaux, tentes et structures ;
 
-Les dispositions du présent article sont applicables sur le territoire de la République.
+- au titre de la catégorie PA : Etablissements de plein air ;
+
+- au titre de la catégorie R : Etablissements d'éveil, d'enseignement, de formation, centres de vacances, centres de loisirs sans hébergement, sauf ceux relevant des articles 4 et 5.
+
+II. - Les établissements relevant de la catégorie M peuvent toutefois continuer à recevoir du public pour les activités figurant en annexe du présent arrêté.
+
+III. - Les établissements de culte, relevant de la catégorie V, sont autorisés à rester ouverts. Tout rassemblement ou réunion de plus de 20 personnes en leur sein est interdit jusqu'au 15 avril 2020, à l'exception des cérémonies funéraires.
+
+IV. - Les dispositions du présent article sont applicables sur le territoire de la République.
 
 ## Article 2
 
@@ -40,7 +56,7 @@ Jusqu'au 15 avril 2020, il est interdit aux navires de croisière et aux navires
 
 I. - Sont suspendus du 16 au 29 mars 2020 :
 
-1° L'accueil des usagers des structures mentionnées aux articles L. 214-1, L.227-4 et L. 424-1 du code de l'action sociale et des familles, à l'exception des structures attachées à des établissements de santé et de celles mentionnées au 4° de l'article R. 2324-17 du code de la santé publique ;
+1° L'accueil des usagers des structures mentionnées aux articles L. 214-1, L.227-4 et, lorsque des agréments ont été délivrés pour l'accueil de plus de 10 enfants, L. 424-1 du code de l'action sociale et des familles, à l'exception des structures attachées à des établissements de santé et de celles mentionnées au 4° de l'article R. 2324-17 du code de la santé publique ;
 
 2° L'accueil des usagers des établissements d'enseignement scolaire relevant du livre IV du code de l'éducation, à l'exception de ceux de son titre V, ainsi que l'accueil des usagers des services d'hébergement, d'accueil et d'activités périscolaires qui y sont associés ;
 
